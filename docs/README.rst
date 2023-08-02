@@ -27,8 +27,6 @@ start on a new formula and it serves as a style guide.
 Getting started
 ---------------
 
-None
-
 Available states
 ^^^^^^^^^^^^^^^^
 .. contents::
@@ -86,7 +84,7 @@ This state will remove the ganesha package and has a depency on
 ``ganesha.config.clean`` via include list.
 
 ``ganesha.subcomponent``
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Meta-state (This is a state that includes other states)*.
 
